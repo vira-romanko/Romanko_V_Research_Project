@@ -12,6 +12,7 @@ should be able to enjoy any type of media in any application.
 * **JavaScript**
 * **JavaScripts**
 * **Vue.js**
+* **Bootstap**
 * **Plyr** https://github.com/sampotts/plyr#html
 
 
